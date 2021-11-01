@@ -38,6 +38,9 @@ dependencies:
   path_provider: ^2.0.5
   share: ^2.0.4
   http: ^0.13.4
+  device_info: ^2.0.2
+  cloud_firestore: ^2.5.4
+  package_info: ^2.0.2
 
 dev_dependencies:
   flutter_test:

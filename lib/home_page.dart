@@ -1,10 +1,13 @@
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:memegen/auth_page.dart';
 
+final auth = FirebaseAuth.instance;
+
 class HomePage extends StatelessWidget {
   // const HomePage({Key? key}) : super(key: key);
-  final auth = FirebaseAuth.instance;
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
