@@ -1,16 +1,15 @@
-# memegen
+# เอาBranch masterส่งค้าบ
+# แอพซื้อขาย-ของ V.0.0.0.0.0.0.1
+## สิ่งที่ทำได้ในแอพ
+- [x] Login
+- [x] Register
+- [x] ซื้อของได้
+- [x] เพิ่มของที่จะขาย
+- [x] เปลี่ยนสกุลเงิน (มีTHB USD EUR CNY)
+- [x] รวมราคาของที่จะต้องจ่าย
+- [x] เพิ่ม/ลดของในหน้าจ่ายเงิน
 
-A new Flutter project.
+## สิ่งที่ว่าจะทำแต่ทำไม่ทัน
+- [ ] ระบบแยกโรลadmin/user
+- [ ] ระบบจ่ายเงินจริง ตัดบัตรเครดิต/Paypal
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
